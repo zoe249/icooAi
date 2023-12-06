@@ -1,0 +1,18 @@
+{
+  "--begin--": "该设备为随机生成，丢失后不能得到原先配置",
+  "product": "ICQQ-75AD4",
+  "device": "9566D",
+  "board": "D1784",
+  "brand": "11C4",
+  "model": "ICQQ 02E9",
+  "wifi_ssid": "HUAWEI-e992308",
+  "bootloader": "U-boot",
+  "display": "IC.0823636.5245",
+  "boot_id": "4e66dc47-2ac0-5777-1aea-0d72aa433e86",
+  "proc_version": "Linux version 5.10.101-android10-254a8308",
+  "mac_address": "02:00:00:00:00:00",
+  "ip_address": "192.168.48.66",
+  "android_id": "880285ffee707883",
+  "incremental": "2384655426",
+  "--end--": "修改后可能需要重新验证设备。"
+}

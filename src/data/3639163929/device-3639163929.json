@@ -1,0 +1,18 @@
+{
+  "--begin--": "该设备由账号作为seed固定生成，账号不变则永远相同",
+  "product": "ILPP-AB66E",
+  "device": "829CD",
+  "board": "6CFA5",
+  "brand": "FA34",
+  "model": "ILPP 6741",
+  "wifi_ssid": "HUAWEI-fbb8e8c",
+  "bootloader": "U-boot",
+  "android_id": "IL.8962984.9722",
+  "boot_id": "70da9279-3a3a-8170-a2ad-5eaad8b50b4e",
+  "proc_version": "Linux version 5.10.101-android12-e60b71bc",
+  "mac_address": "2D:37:E6:E7:DE:0B",
+  "ip_address": "192.168.34.10",
+  "imei": "863447059886498",
+  "incremental": "E8CB9019E7",
+  "--end--": "修改后可能需要重新验证设备"
+}

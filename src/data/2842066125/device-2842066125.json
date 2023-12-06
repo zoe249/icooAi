@@ -1,0 +1,18 @@
+{
+  "--begin--": "该设备由账号作为seed固定生成，账号不变则永远相同",
+  "product": "ILPP-BB4F8",
+  "device": "74F4B",
+  "board": "D8559",
+  "brand": "7CA4",
+  "model": "ILPP 3EBA",
+  "wifi_ssid": "HUAWEI-d2e0596",
+  "bootloader": "U-boot",
+  "android_id": "IL.9442063.1702",
+  "boot_id": "8309fdfe-9bfd-c9f4-06e0-81a0398525ce",
+  "proc_version": "Linux version 5.10.101-android12-17ee4c00",
+  "mac_address": "2D:EF:C7:0B:4E:57",
+  "ip_address": "192.168.62.00",
+  "imei": "865051033715292",
+  "incremental": "1B7CA1FBD6",
+  "--end--": "修改后可能需要重新验证设备"
+}
